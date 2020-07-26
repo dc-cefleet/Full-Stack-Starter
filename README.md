@@ -2,7 +2,7 @@
 
 Team leader clone then do :
 
-`rm -rf Back_End_Project/.git`
+`rm -rf Full-Stack-Starter/.git`
 
 `mv Back_End_Project Whatever_name_you want`
 
