@@ -1,5 +1,7 @@
 # Getting started
 
+# Tyler, Rashad, and Christian
+
 Team leader clone then do :
 
 `rm -rf Full-Stack-Starter/.git`
