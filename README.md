@@ -4,7 +4,7 @@ Team leader clone then do :
 
 `rm -rf Full-Stack-Starter/.git`
 
-`mv BFull-Stack-Starter Whatever_name_you want`
+`mv Full-Stack-Starter Whatever_name_you want`
 
 `cd The_Folder_name_you_chose`
 
