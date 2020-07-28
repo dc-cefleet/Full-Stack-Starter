@@ -119,3 +119,8 @@ label {
     font-weight: bold;
     font-size: 20px;
 }
+
+.login>a {
+    position: absolute;
+    bottom: 0;
+}
